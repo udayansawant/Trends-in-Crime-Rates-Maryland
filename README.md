@@ -6,4 +6,4 @@ Many government statistics, such as crime rates, come from nested datasets. Most
 
 In this project we will use a form of regression called hierarchical modeling to capture and explore crime statistics collected by the State of Maryland to see if there is a linear trend in violent crime across the state between 1975 and 2016. These data come from the Maryland Statistical Analysis Center.
 
-This figure shows population per county across the state of Maryland in 2016. By the end of the project, we will create a similar figure for each county's crime rate.
+
